@@ -62,5 +62,28 @@ h1, h2, h3, h4, h5 {
     letter-spacing: 1px;
     margin-bottom: 15px;
 }
-
+.logo{
+	position: absolute;
+	top: 20px;
+	right: 20px;
+	box-sizing: border-box;	
+}
+.head-img{
+	width: 5%
+}
+.middle-img{
+	width: 100%
+}
+p{
+	box-sizing: border-box;
+	padding: 10px;
+}
+.Features{
+	box-sizing: border-box;
+	text-align: left;
+}
+.About{
+	box-sizing: border-box;
+	text-align: middle;
+}
 /* Your code starts here! */
